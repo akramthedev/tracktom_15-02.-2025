@@ -1,0 +1,1 @@
+export const ENDPOINT_API="https://track-tom-test.pcs-agri.com/api/";
